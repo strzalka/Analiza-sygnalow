@@ -1,2 +1,2 @@
 # Analiza-sygnalow
-Pliki z zajęć "Analiza sygnałów"
+Pliki - rozwiązania zadań z zajęć "Analiza sygnałów"
